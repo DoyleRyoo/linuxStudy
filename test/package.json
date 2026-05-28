@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "keywords": [
+    "linux"
+  ],
+  "homepage": "https://github.com/DoyleRyoo/linuxStudy#readme",
+  "bugs": {
+    "url": "https://github.com/DoyleRyoo/linuxStudy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoyleRyoo/linuxStudy.git"
+  },
+  "license": "ISC",
+  "author": "DoyleRyoo",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
